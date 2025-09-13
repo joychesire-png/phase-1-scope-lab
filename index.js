@@ -10,6 +10,8 @@ function setBestCustomer() {
 function overwriteBestCustomer() {
   bestCustomer = "maybe bob";
 }
+const leastFavoriteCustomer = "Ashley";
+
 function changeLeastFavoriteCustomer() {
-  const leastFavoriteCustomer = "Assignment to constant variable";
+  leastFavoriteCustomer = "someone else";
 }
